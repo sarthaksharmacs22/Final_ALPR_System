@@ -20,7 +20,7 @@ This repository contains the code for my Automatic License Plate Recognition (AL
 
 ## Copyright and Licensing
 
-Copyright (c) [Year] [Your Name/Company Name]. All Rights Reserved.
+Copyright (c) 2025 SARTHAK SHARMA / TBFC BUSINESS SOLUTIONS PVT LTD.. All Rights Reserved.
 
 Unauthorized copying, modification, distribution, or use of this code, in whole or in part, is strictly prohibited without the express written permission of SARTHAK SHARMA / TBFC BUSINESS SOLUTIONS PVT LTD.
 
