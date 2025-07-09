@@ -22,6 +22,6 @@ This repository contains the code for my Automatic License Plate Recognition (AL
 
 Copyright (c) [Year] [Your Name/Company Name]. All Rights Reserved.
 
-Unauthorized copying, modification, distribution, or use of this code, in whole or in part, is strictly prohibited without the express written permission of [Your Name/Company Name].
+Unauthorized copying, modification, distribution, or use of this code, in whole or in part, is strictly prohibited without the express written permission of SARTHAK SHARMA / TBFC BUSINESS SOLUTIONS PVT LTD.
 
 For licensing inquiries or to request permission to use this software, please contact [sarthaksharma1237@gmail.com].
